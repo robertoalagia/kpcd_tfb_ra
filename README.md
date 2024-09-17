@@ -1,5 +1,4 @@
-# kpcd_tfb_ra
-Bootcamp Keepcoding BD,ML, IA: Trabajo Final de Bootcamp - Roberto Alagia
+# Bootcamp Keepcoding BD,ML, IA: Trabajo Final de Bootcamp - Roberto Alagia
 
 Bienvenidos al repositorio del Trabajo Final de Bootcamp (TFB) de Roberto Alagia.
 
