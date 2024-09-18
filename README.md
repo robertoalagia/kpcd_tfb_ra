@@ -14,4 +14,6 @@ Las carpetas que no han podido ser añadidas de forma directa en el Git por tama
   02. modelos: Contiene los modelos generados y entrenados con mejores resultados Se encuentra enlace de descarga desde Google Drive (https://drive.google.com/drive/folders/1Z6ByDGZCd_3HYAVKHQC_esqoGnjfl3MI?usp=sharing)
   05. presentacion: Contiene el video de presentación (defensa del TFB). Se encuentra enlace de descarga desde Google Drive (https://drive.google.com/drive/folders/1kstbH5pZDfMPp96wN882OQWs7TbNryPf?usp=sharing)
 
+Enlace de video defensa en Youtube: https://youtu.be/t2QoZiOqJHg
+
   ¡Nos vemos dentro!
